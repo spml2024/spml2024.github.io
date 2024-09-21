@@ -38,7 +38,7 @@ _Welcome_ to the public page for the course on Security and Privacy in Machine L
 * _Ali Javeri_ (Head Course Assistant) - Email: [ajaveri1378_at_gmail.com](mailto:ajaveri1378@gmail.com)
 * _Alireza Sakhaei_ (Course Assistant) - Email: [alirezasakhaeirad_at_gmail.com](mailto:alirezasakhaeirad@gmail.com)
 * _Mohammad Reza Mirbagheri_ (Course Assistant) - Email: [rezamirbagheri110_at_gmail.com](mailto:rezamirbagheri110@gmail.com)
-* _Ramtin Moslemi_ - Email: [ramtin4moslemi_at_gmail.com](mailto:ramtin4moslemi@gmail.com)
+* _Ramtin Moslemi_ (Course Assistant)  - Email: [ramtin4moslemi_at_gmail.com](mailto:ramtin4moslemi@gmail.com)
 * _Raoof Zare Moayedi_ (Course Assistant) - Email: [raoofmoayedi2000_at_gmail.com](mailto:raoofmoayedi2000@gmail.com)
 
 
