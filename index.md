@@ -1,7 +1,7 @@
 <center><b>Security and Privacy in Machine Learning</b></center>
 <center>Sharif University of Technology, Iran</center>
 <center>CE Department</center>
-<center>Spring 2024</center>
+<center>Fall 2024</center>
 
 
 &nbsp;&nbsp;&nbsp;
@@ -13,9 +13,9 @@ _Welcome_ to the public page for the course on Security and Privacy in Machine L
 
 **Course Logistics**
 
-   * **Time:** Sat. & Mon. 13:30 - 15:00
-   * **Location:** CE-202 & [vc.sharif.edu/ch/amsadeghzadeh](https://vc.sharif.edu/ch/amsadeghzadeh)
-   * **Contact:** Announcements and all course-related questions will happen on the [Quera](https://quera.org/course/add_to_course/course/16592/) forum. 
+   * **Time:** Sun. & Tues. 15:00 - 16:30
+   * **Location:** CE-201 & [vc.sharif.edu/ch/amsadeghzadeh](https://vc.sharif.edu/ch/amsadeghzadeh)
+   * **Contact:** Announcements and all course-related questions will happen on the [Quera](https://quera.org/course/add_to_course/course/18760/) forum. 
      * All official announcements and communication will happen over Quera.
      * For external enquiries, emergencies, or personal matters that you don't wish to put in a private post, you can email me at sadeghzadeh_at_sharif_dot_edu
 
@@ -24,7 +24,8 @@ _Welcome_ to the public page for the course on Security and Privacy in Machine L
 **Instructor**
 
 &nbsp;&nbsp;&nbsp;_Amir Mahdi Sadeghzadeh_  
-&nbsp;&nbsp;&nbsp;Office: CE-704  
+&nbsp;&nbsp;&nbsp;Office: CE-704
+&nbsp;&nbsp;&nbsp;Lab: CE-502
 &nbsp;&nbsp;&nbsp;Office Hours: By appointment (through Email)  
 &nbsp;&nbsp;&nbsp;Email: [amsadeghzadeh_at_gmail.com](mailto:amsadeghzadeh@gmail.com)  
 &nbsp;&nbsp;&nbsp;URL: [amsadeghzadeh.github.io](https://amsadeghzadeh.github.io)  
@@ -33,18 +34,17 @@ _Welcome_ to the public page for the course on Security and Privacy in Machine L
 
 **Course Staff**
 
-* _Fahimeh Hosseini_ (Head Course Assistant) - Email: [fahim.hosseini.77_at_gmail.com](mailto:fahim.hosseini.77@gmail.com)
-* _Ali Abdollahi_ (Course Assistant) - Email: [aliabdollahi024a_at_gmail.com](mailto:aliabdollahi024a@gmail.com)
+* _Ali Abdollahi_ (Head Course Assistant) - Email: [aliabdollahi024a_at_gmail.com](mailto:aliabdollahi024a@gmail.com)
+* _Ali Javeri_ (Head Course Assistant) - Email: [ajaveri1378_at_gmail.com](mailto:ajaveri1378@gmail.com)
 * _Alireza Sakhaei_ (Course Assistant) - Email: [alirezasakhaeirad_at_gmail.com](mailto:alirezasakhaeirad@gmail.com)
-* _Hamidreza Amirzadeh_ (Course Assistant) - Email: [h.amirzadeh1378_at_gmail.com](mailto:h.amirzadeh1378@gmail.com)
-* _Amir Hossein Hadian_ (Course Assistant) - Email: [a.h.hadian_at_gmail.com](mailto:a.h.hadian@gmail.com)
-* _Matin Alinejad_ (Course Assistant) - Email: [maaltnijn4_at_gmail.com](mailto:maaltnijn4@gmail.com)
+* _Mohammad Reza Mirbagheri_ (Course Assistant) - Email: [rezamirbagheri110_at_gmail.com](mailto:rezamirbagheri110@gmail.com)
+* 
 
 
 **Course Pages** 
 
 * [spml2024.github.io](spml2024.github.io) -> Course information, syllabus, and materials.
-* [Quera](https://quera.org/course/add_to_course/course/16592/) (Get the password from course staff) -> Announcements, assignments, and all course-related questions.
+* [Quera](https://quera.org/course/add_to_course/course/18760/) (Get the password from course staff) -> Announcements, assignments, and all course-related questions.
 
 
 
@@ -118,27 +118,3 @@ HW[HW#]-[FamilyName]-[std#] (For example HW3-Hoseini-401234567)
 | # | Date  | Topic             | Content                                    | Lecture | Reading                                                                                                                                                                                                                                                                               | HWs |
 |---|-------|-------------------|--------------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
 | 1 | 11/14 | Course Intro.     | The scope and contents of the course       | [Lec1](https://github.com/spml2024/spml2024.github.io/raw/main/Lectures/Lec1.pdf)    | [Towards the Science of Security and Privacy in Machine Learning](https://arxiv.org/abs/1611.03814)                                                                                                                                                                           |     |
-| 2 | 11/16 | Machine Learning  | ML Intro., Perceptron, Logistic regression | [Lec2](https://github.com/spml-sut/spml-sut.github.io/raw/main/Lectures/Lec2.pdf)    | [Pattern Recognition and Machine Learning Ch.1 & Ch.4](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop\%20-\%20Pattern\%20Recognition\%20And\%20Machine\%20Learning\%20-\%20Springer\%20\%202006.pdf) <br> [Deep Learning Ch.5](https://www.deeplearningbook.org/) |     |
-| 3 | 11/21  | Linear Classifier | Gradient descent, Regularization        | [Lec3](https://github.com/spml-sut/spml-sut.github.io/raw/main/Lectures/Lec3.pdf)    | [Pattern Recognition and Machine Learning Ch.1 & Ch.4](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop\%20-\%20Pattern\%20Recognition\%20And\%20Machine\%20Learning\%20-\%20Springer\%20\%202006.pdf)<br> [Deep Learning Ch.6](https://www.deeplearningbook.org/)  |     |
-| 4  | 11/23  | Neural Networks (NNs)            | Softmax Classifier, Neural networks       | [Lec4](https://github.com/spml-sut/spml-sut.github.io/raw/main/Lectures/Lec4.pdf)    | [Deep Learning Ch.6](https://www.deeplearningbook.org/)   <br> [The Neural Network, A Visual Introduction](https://www.youtube.com/watch?v=UOvPeC8WOt8&t=20s) <br> [Why are neural networks so effective?](https://www.youtube.com/watch?v=-at7SLoVK_I&t=732s)                                                                                                                                                                                                                        | [HW1](https://github.com/spml2024/spml2024.github.io/raw/main/HWs/SPML_HW1.zip)    |
-| 5  | 11/28  | Neural Networks (NNs)            | Neural networks            | [Lec5](https://github.com/spml-sut/spml-sut.github.io/raw/main/Lectures/Lec5.pdf)    | [Deep Learning Ch.6](https://www.deeplearningbook.org/)   <br> [Backpropagation for a Linear Layer](https://web.eecs.umich.edu/~justincj/teaching/eecs442/notes/linear-backprop.html)    <br> [What is backpropagation really doing?](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)                                                                                                                                                                                                                         |     |
-| 6  | 11/30 | Neural Networks (NNs)                | Forward and backward propagation      | [Lec6](https://github.com/spml-sut/spml-sut.github.io/raw/main/Lectures/Lec6.pdf)    | [Deep Learning Ch.9](https://www.deeplearningbook.org/)                                                                                                                                                                                                                    |     |
-| 7  | 12/5 | Convolutional NNs                | Convolutional Neural Networks (CNNs)                            | [Lec7](https://drive.google.com/file/d/1Irbdsef7PLnzMMR4WZzcCP2iCpsRj9CS/view?usp=sharing)    | [Deep Learning Ch.9](https://www.deeplearningbook.org/)                                                                                                                                                                                                                                     |     |
-| 8 | 12/7 | Regularization <br> Optimization | Batch Normalization, CNNs Architecture     | [Lec8](https://github.com/spml-sut/spml-sut.github.io/raw/main/Lectures/Lec8.pdf)    | [Dive into Deep Learning Ch. 8](http://d2l.ai/)                                                                                                                                                                                                              |     |
-| 9 | 12/12 | Adversarial Examples             | CNNs Architecture, AE Generating Methods                      | [Lec9](https://github.com/spml-sut/spml-sut.github.io/raw/main/Lectures/Lec9.pdf)    | [Dive into Deep Learning Ch. 8](http://d2l.ai/)  <br> [Intriguing Properties of Neural Networks](https://arxiv.org/abs/1312.6199)                                                                                                             |  [HW2](https://github.com/spml2024/spml2024.github.io/raw/main/HWs/SPML_HW2.zip)   |                                                                                                 
-| 10 | 12/14  | Adversarial Examples             | AE Generating Methods                      | [Lec10](https://github.com/spml-sut/spml-sut.github.io/raw/main/Lectures/Lec10.pdf)   | [Intriguing Properties of Neural Networks](https://arxiv.org/abs/1312.6199) |     |
-| 11 | 12/19  | Adversarial Examples             | AE Generating Methods                              | [Lec11](https://github.com/spml-sut/spml-sut.github.io/raw/main/Lectures/Lec11.pdf)   |  [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)                  |     |
-| 12 | 12/21  | Adversarial Examples             |      AE Generating Methods                  | [Lec12](https://github.com/spml-sut/spml-sut.github.io/raw/main/Lectures/Lec12.pdf)   |   [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/abs/1608.04644)                                                           |    |
-| 13 | 1/18  | Adversarial Examples             |       AE Generating Methods                   | [Lec13](https://github.com/spml-sut/spml-sut.github.io/raw/main/Lectures/Lec13.pdf)   |       [Universal Adversarial Perturbations](https://arxiv.org/abs/1610.08401) <br> [Adversarial Patch](https://arxiv.org/abs/1712.09665)                                                                                                                                                                                         |    |
-| 14 | 1/20  | Adversarial Examples             |     Defenses Against AEs                            | [Lec14](https://github.com/spml-sut/spml-sut.github.io/raw/main/Lectures/Lec14.pdf)   |    [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083) <br> [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](http://proceedings.mlr.press/v80/athalye18a/athalye18a.pdf)                                                                             |     |
-| 15 | 1/25   |     Adversarial Examples                  |      Defenses Against AEs                                      |   [Lec15](https://github.com/spml-sut/spml-sut.github.io/raw/main/Lectures/Lec15.pdf)      |    [Certified Adversarial Robustness via Randomized Smoothing](https://arxiv.org/pdf/1902.02918) <br> [Provably robust deep learning via adversarially trained smoothed classifiers](https://proceedings.neurips.cc/paper/2019/file/3a24b25a7b092a252166a1641ae953e7-Paper.pdf)   |   [HW3](https://github.com/spml2024/spml2024.github.io/raw/main/HWs/SPML_HW3.zip)    |
-| 16 | 1/27   |     Adversarial Examples                  |      Defenses Against AEs                                      |   [Lec16](https://github.com/spml-sut/spml-sut.github.io/raw/main/Lectures/Lec16.pdf)     |    [Certified Adversarial Robustness via Randomized Smoothing](https://arxiv.org/pdf/1902.02918) <br> [Provably robust deep learning via adversarially trained smoothed classifiers](https://proceedings.neurips.cc/paper/2019/file/3a24b25a7b092a252166a1641ae953e7-Paper.pdf)   |     |
-| 17 | 2/1   |      Adversarial Examples             |       Black-box AEs                                     |   [Lec17](https://github.com/spml-sut/spml-sut.github.io/raw/main/Lectures/Lec17.pdf)      |  [Practical Black-Box Attacks against Machine Learning](https://www.cs.purdue.edu/homes/bb/2020-fall-cs590bb/docs/at/attacks-against-machine-learning.pdf) <br>        [ZOO: Zeroth Order Optimization Based Black-box Attacks to Deep Neural Networks without Training Substitute Models](https://dl.acm.org/doi/pdf/10.1145/3128572.3140448)    | |                                                                                   
-| 18 | 2/3   |      Adversarial Examples             |       Black-box AEs   - Data Poisoning                                 |   [Lec18](https://github.com/spml-sut/spml-sut.github.io/raw/main/Lectures/Lec18.pdf)    |    [Black-box Adversarial Attacks with Limited Queries and Information](https://arxiv.org/pdf/1804.08598) <br> [BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain](https://arxiv.org/abs/1708.06733)  <br> [Clean-Label Backdoor Attacks](https://people.csail.mit.edu/madry/lab/cleanlabel.pdf)   |  |
-| 19 | 2/10  | Poisoning                        | Poisoning                                  |  [Lec19](https://github.com/spml-sut/spml-sut.github.io/raw/main/Lectures/Lec19.pdf)  | [Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks](https://arxiv.org/abs/1804.00792) <br> [Deep Partition Aggregation: Provable Defense against General Poisoning Attacks](https://arxiv.org/pdf/2006.14768)                                                                                                                                     |     |
-| 20 | 2/17  | Model Extraction                 | ME Attacks                                 | [Lec20](https://github.com/spml-sut/spml-sut.github.io/raw/main/Lectures/Lec20.pdf)   | [High Accuracy and High Fidelity Extraction of Neural Networks](https://arxiv.org/abs/1909.01838)  <br> [Knockoff Nets: Stealing Functionality of Black-Box Models](https://arxiv.org/abs/1812.02766) |     |
-| 21 | 2/22  | Model Extraction   - Privacy              | ME Defenses - Privacy Risks                              | [Lec21](https://github.com/spml-sut/spml-sut.github.io/raw/main/Lectures/Lec21.pdf)   |  [Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring](https://arxiv.org/pdf/1802.04633)     <br>  [Membership Inference Attacks against Machine Learning Models](https://arxiv.org/abs/1610.05820)                   |     |                                                                                                       
-| 22 | 2/24  | Privacy                          | Privacy Risks                       | [Lec22](https://github.com/spml-sut/spml-sut.github.io/raw/main/Lectures/Lec22.pdf)   | [Passive and Active White-box Inference Attacks against Centralized and Federated Learning](https://arxiv.org/abs/1812.00910) <br> [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)                                                                                                                    |    |
-| 23 | 2/29  | Privacy                          | Differential Privacy                       | [Lec23](https://github.com/spml-sut/spml-sut.github.io/raw/main/Lectures/Lec23.pdf)   | [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)                                                                                                                                                                                                                                                        |     |
-| 24 | 2/31  | Privacy                          | Privacy-preserving DL                      | [Lec24](https://github.com/spml-sut/spml-sut.github.io/raw/main/Lectures/Lec24.pdf)   | [Deep Learning with Differential Privacy](https://arxiv.org/abs/1607.00133) <br> [Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data](https://arxiv.org/abs/1610.05755)                                                                                                                                                                                                       |     |
-| 25 | 3/5  | LLM Security                          |LLM Security                  |  [Lec25](https://github.com/spml2024/spml2024.github.io/raw/main/Lectures/Lec25.pdf)   |    [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)      |    |
