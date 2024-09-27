@@ -37,9 +37,12 @@ _Welcome_ to the public page for the course on Security and Privacy in Machine L
 * _Ali Abdollahi_ (Head Course Assistant) - Email: [aliabdollahi024a_at_gmail.com](mailto:aliabdollahi024a@gmail.com)
 * _Ali Javeri_ (Head Course Assistant) - Email: [ajaveri1378_at_gmail.com](mailto:ajaveri1378@gmail.com)
 * _Alireza Sakhaei_ (Course Assistant) - Email: [alirezasakhaeirad_at_gmail.com](mailto:alirezasakhaeirad@gmail.com)
+*  _Raoof Zare Moayedi_ (Course Assistant) - Email: [raoofmoayedi2000_at_gmail.com](mailto:raoofmoayedi2000@gmail.com)
+*  _Matin Alinejad_ (Course Assistant) - Email: [matin.alnj_at_gmail.com](mailto:matin.alnj@gmail.com)
 * _Mohammad Reza Mirbagheri_ (Course Assistant) - Email: [rezamirbagheri110_at_gmail.com](mailto:rezamirbagheri110@gmail.com)
 * _Ramtin Moslemi_ (Course Assistant)  - Email: [ramtin4moslemi_at_gmail.com](mailto:ramtin4moslemi@gmail.com)
-* _Raoof Zare Moayedi_ (Course Assistant) - Email: [raoofmoayedi2000_at_gmail.com](mailto:raoofmoayedi2000@gmail.com)
+
+
 
 
 
@@ -119,4 +122,5 @@ HW[HW#]-[FamilyName]-[std#] (For example HW3-Hoseini-401234567)
 
 | # | Date  | Topic             | Content                                    | Lecture | Reading                                                                                                                                                                                                                                                                               | HWs |
 |---|-------|-------------------|--------------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
-| 1 | 11/14 | Course Intro.     | The scope and contents of the course       | [Lec1](https://github.com/spml2024/spml2024.github.io/raw/main/Lectures/Lec1.pdf)    | [Towards the Science of Security and Privacy in Machine Learning](https://arxiv.org/abs/1611.03814)                                                                                                                                                                           |     |
+| 1 | 7/1 | Course Intro.     | The scope and contents of the course       | [Lec1](https://github.com/spml2024/spml2024.github.io/raw/main/Lectures/Lec1.pdf)    | [Towards the Science of Security and Privacy in Machine Learning](https://arxiv.org/abs/1611.03814)                                                                                                                                                                           |     |
+| 2 | 7/3 | Deep Learning Review     | ML Intro., Perceptron, Logistic regression, GD, Regularization       | [Lec1](https://github.com/spml2024/spml2024.github.io/raw/main/Lectures/Lec2.pdf)    | [Pattern Recognition and Machine Learning Ch.1 & Ch.4](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop\%20-\%20Pattern\%20Recognition\%20And\%20Machine\%20Learning\%20-\%20Springer\%20\%202006.pdf) <br> [Deep Learning Ch.5 & Ch.6](https://www.deeplearningbook.org/)                                                                                                                                                                          |     |
